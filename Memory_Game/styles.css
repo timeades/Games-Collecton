@@ -1,0 +1,19 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.score {
+    color: grey;
+    font-size: 2.5rem;
+    font-weight: 700;
+    font-family: 'Patrick Hand', sans-serif
+}
+
+#grid {
+    background-color: transparent;
+    box-sizing: content-box;
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    height: 300px;
+}
